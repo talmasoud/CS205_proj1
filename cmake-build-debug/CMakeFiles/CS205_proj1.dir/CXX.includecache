@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/thamer/OneDrive/PhD_UCR/Spring 2021/AI/CS205_proj1/Puzzle.cpp
+Puzzle.h
+/Users/thamer/OneDrive/PhD_UCR/Spring 2021/AI/CS205_proj1/Puzzle.h
+iostream
+-
+cstdlib
+-
+queue
+-
+
+/Users/thamer/OneDrive/PhD_UCR/Spring 2021/AI/CS205_proj1/Puzzle.h
+vector
+-
+iostream
+-
+string.h
+-
+queue
+-
+

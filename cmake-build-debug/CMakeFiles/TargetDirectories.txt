@@ -1,0 +1,3 @@
+/Users/thamer/OneDrive/PhD_UCR/Spring 2021/AI/CS205_proj1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/thamer/OneDrive/PhD_UCR/Spring 2021/AI/CS205_proj1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thamer/OneDrive/PhD_UCR/Spring 2021/AI/CS205_proj1/cmake-build-debug/CMakeFiles/CS205_proj1.dir

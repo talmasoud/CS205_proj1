@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" "/Users/thamer/OneDrive/PhD_UCR/Spring 2021/AI/CS205_proj1"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/thamer/OneDrive/PhD_UCR/Spring 2021/AI/CS205_proj1/cmake-build-release
